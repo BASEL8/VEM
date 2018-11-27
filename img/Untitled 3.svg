@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480px" height="271px" viewBox="0 0 480 271" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Untitled 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-2.1%" y="-6.9%" width="105.8%" height="119.4%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="4" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.423913043 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <text id="text-2" font-family="Arial-Black, Arial Black" font-size="72" font-weight="700" line-spacing="26" fill="#0B2280">
+            <tspan x="146.564453" y="209.988281">VEM</tspan>
+            <tspan x="188.388672" y="288.596094" font-size="24">Bygg AB</tspan>
+        </text>
+        <filter x="-2.7%" y="-58.5%" width="105.3%" height="184.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="vem" filter="url(#filter-1)" style="mix-blend-mode: color-burn;" transform="translate(0.000000, -2.000000)" fill="#0B2280" fill-rule="nonzero">
+            <g id="Group-2">
+                <g id="Group" transform="translate(240.000000, 72.000000) scale(-1, 1) rotate(-180.000000) translate(-240.000000, -72.000000) ">
+                    <path d="M228.038181,136.582399 L228.038181,118.079039 L152.925256,134.972908 L121.787927,80.9976483 L40.5986887,91.4864079 L0.163678511,6.09863083 L8.58309724,6.09863083 C32.4595082,57.1774788 44.7558859,82.7169029 45.4722304,82.7169029 C45.8492538,82.7169029 62.154702,56.6809251 94.388575,4.60896947 L194.364951,4.60896947 L154.372909,78.1996527 L133.139256,79.9142006 L157.642661,122.764521 L221.133591,2.72501301 L278.432008,2.72501301 C271.610725,21.1476061 268.200084,30.6584453 268.200084,31.2575306 C268.200084,31.5042128 274.046784,31.5042128 285.740184,31.2575306 L312.201225,95.2889286 L351.458373,29.8832139 L351.458373,1.10961913 L411.231816,1.10961913 L400.93676,23.6978834 L415.969291,23.6978834 L435.844592,74.049327 L465.097706,22.9241782 L476.61884,22.9241782 L440.372221,87.3262225 L404.693794,73.4934101 L392.359771,82.7169029 L332.738319,94.5605321 L319.760127,117.053459 L288.320685,105.018304 L264.142775,109.642558 L264.142775,134.972908 L235.719431,143.753987 L228.038181,136.582399 Z M37.7153464,26.1818182 L37.7153464,7.25413417 L57.740167,7.25413417 L57.740167,26.1818182 L37.7153464,26.1818182 Z M38,48.1304812 L38,29.2027972 L58.0248206,29.2027972 L58.0248206,48.1304812 L38,48.1304812 Z M305,43.0918805 L305,24.1678322 L334.577487,24.1678322 L334.577487,33.6298564 L334.577487,43.0918805 L305,43.0918805 Z M305,20.0838023 L305,3.02097902 L334.577487,3.02097902 L334.577487,20.0838023 L305,20.0838023 Z M432,31.1607253 L432,18.1258741 L453.139023,18.1258741 L453.139023,31.1607253 L432,31.1607253 Z M432,14.0418442 L432,1.00699301 L453.139023,1.00699301 L453.139023,14.0418442 L432,14.0418442 Z M463,14.849931 C463,13.2379286 463,2.46345416 463,-2.84217094e-14 C466.12295,-1.5138334e-14 476.820538,-2.84287376e-14 479.004032,-2.84217066e-14 C479.37801,-2.84287376e-14 463,15.0218446 463,14.849931 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+        <g id="VEM-Bygg-AB" fill="#0B2280" fill-opacity="1">
+            <use filter="url(#filter-3)" xlink:href="#text-2"></use>
+            <use xlink:href="#text-2"></use>
+        </g>
+    </g>
+</svg>
